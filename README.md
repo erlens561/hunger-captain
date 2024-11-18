@@ -11,9 +11,9 @@ This is an online food menu service for Hunger Captain. When you visit the resta
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://sd-frontend.rabeelsadiq.repl.co/) here!!
+Check out [FRONTEND LIVE DEMO](https://hunger-captain.netlify.app/) here!!
 
-Check out [API LIVE DEMO](https://sd-backend.rabeelsadiq.repl.co/) here!!
+Check out [API LIVE DEMO](https://hunger-captain-backend-dpem.onrender.com) here!!
 
 ## ScreenShot
 ![Screenshot 2022-06-29 at 12 50 00 PM](https://user-images.githubusercontent.com/101166793/176389311-caae6829-d4cf-493c-a5a9-132cdf8a4648.png)
@@ -28,7 +28,7 @@ Check out [API LIVE DEMO](https://sd-backend.rabeelsadiq.repl.co/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/Rabeel90/Hunger-Captain.git
+1. git clone https://github.com/erlens561/hunger-captain.git
 
 ```
 git clone 
